@@ -1,0 +1,19 @@
+#rose {
+    color: blue;
+    font-size: 36px;
+}
+
+#lily {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.thorn {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.thorn.yeti {
+    font-size: 24px;
+}
